@@ -1,0 +1,18 @@
+export const whiteCards = [
+	"A dollop of sour cream.",
+	"A slightly shittier parallel universe.",
+	"My first kill.",
+	"Boris the Soviet Love Hammer.",
+	"The grey nutrient broth that sustains Mitt Romney.",
+	"Tiny nipples.",
+	"Power.",
+	"Death by Steven Seagal.",
+	"A Burmese tiger pit.",
+	"Basic human decency.",
+	"Grandpa's ashes.",
+	"One Ring to rule them all.",
+	"The day the birds attacked.",
+	"Fetal alcohol syndrome.",
+	"Graphic violence, adult language, and some sexual content.",
+	"A bigger, blacker dick.",
+]

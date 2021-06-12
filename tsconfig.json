@@ -1,0 +1,13 @@
+{
+    "include": [
+        "./src/*"
+    ],
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "ESNext"
+        ],
+        "baseUrl": "src",
+        "jsx": "react"
+    }
+}
